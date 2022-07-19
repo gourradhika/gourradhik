@@ -4,7 +4,7 @@
 ✉️ How to reach me : <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📧 Email - yashikagour396@gmail.com <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📧 Linkedin - https://www.linkedin.com/in/radhika-gour-0536911bb <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📧 Github -  <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📧 Github -  https://github.com/gourradhika/yashikagour/blob/main/README.md<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 👩‍🎓 Portfolio : Portfolio <br/>
   😊 Pronouns : She/Her <br/>
   ☑️ Know about my experiences : Yashika's-Resume. <br/>
