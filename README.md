@@ -8,3 +8,16 @@
 # woman_technologist Portfolio : Portfolio
 # Smile Pronouns : She/Her
 # Page_facing_up Know about my experiences : Yashika's-Resume.
+
+
+🛠  Tech Stack....
+
+💻   C++
+
+🌐   HTML5, CSS, React, Bootstrap
+
+⚙️   Git GitHub
+
+🔧   Visual Studio Code
+
+age focus living
