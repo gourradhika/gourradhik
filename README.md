@@ -1,13 +1,13 @@
 # Hey ...Yashika Gour here...
   I'm currently learning : Python, Data structures <br/>
-  speech_balloon Ask me about : HTML, CSS,JavaScript, C++
-  mailbox How to reach me : 
+  speech_balloon Ask me about : HTML, CSS,JavaScript, C++ <br/>
+  mailbox How to reach me : <br/>
            Email - yashikagour396@gmail.com
            Linkedin - https://www.linkedin.com/in/radhika-gour-0536911bb
            Github -  
-  woman_technologist Portfolio : Portfolio
-  Smile Pronouns : She/Her
-  Page_facing_up Know about my experiences : Yashika's-Resume.
+  woman_technologist Portfolio : Portfolio <br/>
+  Smile Pronouns : She/Her <br/>
+  Page_facing_up Know about my experiences : Yashika's-Resume. <br/>
 
 
 🛠  Tech Stack....
