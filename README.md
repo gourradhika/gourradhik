@@ -1,6 +1,6 @@
 # Hey ...Yashika Gour here...
-" " I'm currently learning : Python, Data structures
-# speech_balloon Ask me about : HTML, CSS,JavaScript, C++
+ I'm currently learning : Python, Data structures
+ speech_balloon Ask me about : HTML, CSS,JavaScript, C++
 # mailbox How to reach me : 
            Email - yashikagour396@gmail.com
            Linkedin - https://www.linkedin.com/in/radhika-gour-0536911bb
